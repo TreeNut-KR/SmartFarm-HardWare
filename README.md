@@ -8,7 +8,7 @@
 ---
 
 ## 🌳 프로젝트 파일 트리
-
+```
 📦JMS_smart_farm     
  ┣ 📂.github      
  ┃ ┣ 📂workflows     
@@ -55,6 +55,7 @@
  ┣ 📜requirements.txt      
  ┣ 📜setup_venv.bat      
  ┗ 📜setup_venv.sh      
+ ```
 ---
 
 ## ⚡ 스마트팜 전력 배선 시스템
